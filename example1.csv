@@ -1,0 +1,11 @@
+CpG.name	Chromosome	Chromosomal.position	Gene.name.s.	Associated.phenotype	Model.coefficient	Pearson.correlation	P.value	Benjamini.Horchberg.adjusted.P.value	Bonferroni.corrected.p.value	Significant.association.in.previous.studies
+cg17944885	19	12225735	ZNF788	baseline eGFR	-5.15613889	-0.273816947	1.41e-20	6.11e-15	6.11e-15	Breeze et al. (Trans, AA); Chu et al. (ARIC, FHS); Sheng et al.; Schlosser et al.
+cg25364972	2	217075573	ST9	baseline eGFR	-6.30287558	-0.323655186	4.36e-11	9.49e-06	1.9e-05	Chu et al. (FHS)
+cg02304370	11	587926	PHRF1	baseline eGFR	3.662105721	0.194767121	1.37e-10	1.49e-05	5.97e-05	Chu et al. (FHS); Schlosser et al.
+cg21919729	8	11719367	CTSB	baseline eGFR	3.367964861	0.179494972	4.28e-10	3.72e-05	0.000186216	
+cg04610187	17	76360794	SOCS3	baseline eGFR	3.766429303	0.199879262	5.83e-10	4.22e-05	0.000253479	
+cg04983687	16	88558223	ZFPM1	baseline eGFR	3.371644714	0.1795349	1.29e-09	8.02e-05	0.000561388	Breeze et al. (Trans)
+cg27254661	2	73118624	SPR	baseline eGFR	3.696777263	0.196113713	2.47e-09	0.000119858	0.001075931	
+cg18593194	19	36205201	ZBTB32	baseline eGFR	3.697297369	0.196124427	2.75e-09	0.000119858	0.00119806	
+cg06449934	7	1130697	GPER	baseline eGFR	3.679495362	0.195707965	9.7e-11	1.41e-05	4.22e-05	
+cg06449934	7	1130697	C7orf50	baseline eGFR	3.679495362	0.195707965	9.7e-11	1.41e-05	4.22e-05	
